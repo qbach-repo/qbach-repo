@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I'm currently a lead machine learning engineer implementing AI to solve problems at scale.<br>✈️ My work impacts millions of passengers and tens of thousands of flights yearly<br>🤓 This is my personal repo where I have my pet projects and the code of certificates that I have taken<br>📄 [**Resume**]((https://drive.google.com/file/d/1IOzgN5d3i2tvagM4hPPWIfkB55FpNGXp/view?usp=sharing))
+🤖 I'm currently a lead machine learning engineer implementing AI to solve problems at scale.<br>✈️ My work impacts millions of passengers and tens of thousands of flights yearly<br>🤓 This is my personal repo where I have my pet projects and the code of certificates that I have taken<br>📄 [**Resume**](https://drive.google.com/file/d/1IOzgN5d3i2tvagM4hPPWIfkB55FpNGXp/view?usp=sharing)
 
 
 # 💻 Tech Stack:
