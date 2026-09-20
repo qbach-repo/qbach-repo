@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I'm currently a machine learning engineer implementing AI/ML to solve problems at scale.<br>✈️ My work impacts millions of travelers yearly. < br> 🤓 This is my personal repo where I have my pet projects and the code of certificates that I have taken<br>
+🤖 I'm currently a machine learning engineer implementing AI/ML to solve problems at scale.<br>✈️ My work impacts millions of travelers yearly. <br> 🤓 This is my personal repo where I have my pet projects and the code of certificates that I have taken<br>
 
 
 # 💻 Tech Stack:
